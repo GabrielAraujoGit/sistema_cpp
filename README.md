@@ -13,10 +13,11 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/license/gabriel-araujo-git/sistema_cpp?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/github/last-commit/gabriel-araujo-git/sistema_cpp?style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/top/gabriel-araujo-git/sistema_cpp?style=flat-square&color=blue"/>
-  <img src="https://img.shields.io/github/stars/gabriel-araujo-git/sistema_cpp?style=flat-square&color=yellow"/>
+ <img src="https://img.shields.io/github/license/gabriel-araujo-git/sistema_cpp?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/gabriel-araujo-git/sistema_cpp?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/github/languages/top/gabriel-araujo-git/sistema_cpp?style=for-the-badge&color=00599C&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/gabriel-araujo-git/sistema_cpp?style=for-the-badge&color=yellow&logo=github&logoColor=white"/>
+
 </div>
 
 ---
